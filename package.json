@@ -7,7 +7,7 @@
     "format": "prettier --write .",
     "format:check": " prettier --check .",
     "lint": "eslint . ",
-    "lint:fixt": "eslint . --fix",
+    "lint:fix": "eslint . --fix",
     "start": "node server.js",
     "test": "jest"
   },
